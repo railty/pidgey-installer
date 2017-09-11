@@ -1,0 +1,9 @@
+deb cdrom:[Ubuntu-Server 16.04.1 LTS _Xenial Xerus_ - Release amd64 (20160719)]/ xenial main restricted
+deb file:/home/sning/extra ./
+
+deb http://ca.archive.ubuntu.com/ubuntu/ xenial main restricted universe multiverse
+deb http://ca.archive.ubuntu.com/ubuntu/ xenial-updates main restricted universe multiverse
+deb http://security.ubuntu.com/ubuntu xenial-security main restricted universe multiverse
+deb http://ca.archive.ubuntu.com/ubuntu/ xenial-backports main restricted universe multiverse
+
+
